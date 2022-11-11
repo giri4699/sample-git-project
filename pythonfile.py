@@ -1,2 +1,2 @@
-print("hello world this is mty project")
+print("hello world this is my world")
 
